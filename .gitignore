@@ -1,0 +1,11 @@
+.env
+storage/logs/*
+storage/cache/*
+storage/sessions/*
+public/assets/uploads/*
+!public/assets/uploads/.gitkeep
+!storage/logs/.gitkeep
+!storage/cache/.gitkeep
+!storage/sessions/.gitkeep
+.DS_Store
+*.swp
