@@ -427,7 +427,7 @@
             <a href="/contact" class="px-8 py-3 bg-white text-primary-700 font-semibold rounded-lg hover:bg-gray-100 transition-colors">
                 Get Started Today
             </a>
-            <a href="https://wa.me/254700000000" class="px-8 py-3 bg-white/10 text-white font-semibold rounded-lg border border-white/30 hover:bg-white/20 transition-colors">
+            <a href="https://wa.me/254724177790?text=Hi%20IKO%20OPTIC%2C%20I%27m%20interested%20in%20your%20internet%20packages.%20Please%20share%20more%20details." target="_blank" class="px-8 py-3 bg-white/10 text-white font-semibold rounded-lg border border-white/30 hover:bg-white/20 transition-colors">
                 WhatsApp Us
             </a>
         </div>

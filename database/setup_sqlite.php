@@ -164,14 +164,13 @@ INSERT INTO users (name, email, password, role, created_at) VALUES
 
 $db->exec("
 INSERT INTO coverage_areas (name, estates, fiber_available, wireless_available, status) VALUES
-('Nairobi CBD', 'Westlands, Kilimani, Lavington, Kileleshwa, Upper Hill', 1, 1, 'active'),
-('Kiambu', 'Thindigua, Ruaka, Two Rivers, Rosslyn, Runda', 1, 1, 'active'),
-('Thika', 'Thika Town, Makongeni, Landless, Section 9', 1, 1, 'active'),
-('Ruiru', 'Membley, Kimbo, Bypass, Eastern Bypass', 1, 1, 'active'),
-('Juja', 'Juja Town, Kenyatta Road, Theta, Witeithie', 1, 1, 'active'),
-('Syokimau', 'Syokimau, Mlolongo, Gateway Mall Area', 1, 0, 'active'),
-('Rongai', 'Rongai Town, Rimpa, Nkoroi, Maasai Lodge', 0, 1, 'active'),
-('Kitengela', 'Kitengela Town, Acacia, Milimani', 1, 1, 'coming_soon');
+('Lucky Summer Phase 1', 'Phase 1 Estate', 1, 1, 'active'),
+('Lucky Summer Phase 2', 'Phase 2 Estate', 1, 1, 'active'),
+('Lucky Summer Phase 3', 'Phase 3 Estate', 1, 1, 'active'),
+('Lucky Summer Phase 4', 'Phase 4 Estate', 1, 1, 'active'),
+('Lucky Summer Phase 5', 'Phase 5 Estate', 1, 1, 'active'),
+('Baba Dogo', 'Baba Dogo Estate', 1, 1, 'active'),
+('Korogocho', 'Korogocho Area', 0, 1, 'active');
 ");
 
 $db->exec("
